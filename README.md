@@ -23,8 +23,16 @@
 <li>Lootr: Makes chest loot different for each player, allowing multiple players to loot one chest.</li>
 <li>Hex Casting: Stack-based programmable spellcasting.</li>
 <li>Quark: Adds a lot of small features to base Minecraft without straying from the original game too much.</li>
+<li>Quark Oddities: Addon for Quark.</li>
 <li>Tom's Simple Storage: Adds more methods of storage</li>
 <li>Inventory Free: Removes inventory slots.</li>
+<li>Gravestone: Adds gravestones to hold items after player death.</li>
 <li>Appleskin: Provides hunger and saturation information on foods to the client.</li>
+<li>Attribute Fix: Changes attributes to be controlled by mods.</li>
+<li>Patchouli: Allows achievemnt-based progression.</li>
+<li>Kotlin for Forge: Adds the Kotlin programming language for developers to mod in.</li>
+<li>PAUCAL: Adds backend servers and libraries for mods. Also adds headpats.</li>
+<li>Prism: Colour library.</li>
+
 
 <b>UNDER CONSTRUCTION</b>
