@@ -19,7 +19,7 @@
   <li><a href ="https://www.curseforge.com/minecraft/mc-mods/minestuck/files/4061655">Minestuck</a></li>
   <li><a href ="https://www.curseforge.com/minecraft/mc-mods/hexcasting/files/3969898">Hex Casting</a></li>
   <li><a href ="https://www.curseforge.com/minecraft/mc-mods/botania/files/3936568">Botania</a></li>
-<li><a href ="https://www.curseforge.com/minecraft/mc-mods/bedspreads/files/3868367">Bedspreads</a></li>
+<li><a href ="https://www.curseforge.com/minecraft/mc-mods/bedspreads/files/3858902">Bedspreads</a></li>
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/terralith/files/4001337">Terralith</a></li>
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files/3759236">Biomes O' Plenty</a></li>
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/catalogue/files/3803098">Catalogue</a></li>
