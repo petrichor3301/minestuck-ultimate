@@ -13,7 +13,7 @@
 <br>
 
 <h2>Mod List</h2>
-<p>This is a list of the mods and their functions</p>
+<p>This is a list of the mods and links to the Curseforge source of each.</p>
 <h3>Server Mods</h3>
 <ul>
   <li><a href ="https://www.curseforge.com/minecraft/mc-mods/minestuck/files/4061655">Minestuck</a></li>
