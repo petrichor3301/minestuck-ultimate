@@ -67,6 +67,7 @@
   <li><a href = "https://www.curseforge.com/minecraft/mc-mods/starlight-forge/files/3706539">Starlight</a>. Lighting fixes and optimization.</li>
   <li><a href ="https://www.curseforge.com/minecraft/mc-mods/appleskin/files/3927564">AppleSkin</a>. Saturation and hunger values in tooltip.</li>
   <li><a href ="https://www.curseforge.com/minecraft/mc-mods/jei/files/3940240">Just Enough Items</a>. Recipes for items in crafting.</li>
+  <li><a href ="https://essential.gg/en/download">Essential</a>. Social/cosmetic mod.</li>
   
 </ul>
 
