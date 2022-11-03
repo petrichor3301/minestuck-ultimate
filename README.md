@@ -29,13 +29,9 @@
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/ears/files/3616896">Ears</a></li>
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/colds-easy-paxel-lite/files/3920551">Easy Paxel Lite</a></li>
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/inventory-free/files/3782203">Inventory-Free</a></li>
-<li><a href ="https://www.curseforge.com/minecraft/mc-mods/appleskin/files/3927564">AppleSkin</a></li>
-<li><a href ="https://www.curseforge.com/minecraft/mc-mods/jei/files/3940240">Just Enough Items</a></li>
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/toms-storage/files/3972854">Tom's Simple Storage Mod </a></li>
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise/files/4047163">When Dungeons Arise</a></li>
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/lootr/files/3991008">Lootr </a></li>
-<li><a href ="https://www.curseforge.com/minecraft/mc-mods/ferritecore/files/3767288">Ferrite Core</a></li>
-<li><a href = "https://www.curseforge.com/minecraft/mc-mods/starlight-forge/files/3706539">Starlight</a></li>
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/quark/files/3840125">Quark</a></li>
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/quark-oddities/files/3575623">Quark Oddities</a></li>
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/4049235">Supplementaries</a></li>
@@ -67,6 +63,10 @@
   <li><a href = "https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips/files/4035921">Legendary Tooltips</a></li>
   <li><a href ="https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/4026490">Xaero's Minimap</a></li>
   <li><a href ="https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/4026503">Xaero's World Map</a></li>
+  <li><a href ="https://www.curseforge.com/minecraft/mc-mods/ferritecore/files/3767288">Ferrite Core</a></li>
+  <li><a href = "https://www.curseforge.com/minecraft/mc-mods/starlight-forge/files/3706539">Starlight</a></li>
+  <li><a href ="https://www.curseforge.com/minecraft/mc-mods/appleskin/files/3927564">AppleSkin</a></li>
+  <li><a href ="https://www.curseforge.com/minecraft/mc-mods/jei/files/3940240">Just Enough Items</a></li>
   
 </ul>
 
