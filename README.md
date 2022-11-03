@@ -53,20 +53,20 @@
 
 <h3>Client Mods</h3>
 <ul>
-  <li><a href = "https://www.curseforge.com/minecraft/mc-mods/rubidium/files/4024781">Rubidium</a></li>
-  <li><a href = "https://www.curseforge.com/minecraft/mc-mods/oculus/files/3929520">Oculus</a></li>
-  <li><a href = "https://www.curseforge.com/minecraft/mc-mods/jade/files/4035581">Jade</a></li>
-  <li><a href = "https://www.curseforge.com/minecraft/mc-mods/entityculling/files/3743929">EntityCulling</a></li>
-  <li><a href = "https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler/files/4033047">Extreme Sound Muffler </a></li>
-  <li><a href = "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks/files/3578801">Mouse Tweaks </a></li>
-  <li><a href = "https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge/files/3909860">Presence Footsteps (Forge)</a></li>
-  <li><a href = "https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips/files/4035921">Legendary Tooltips</a></li>
-  <li><a href ="https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/4026490">Xaero's Minimap</a></li>
-  <li><a href ="https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/4026503">Xaero's World Map</a></li>
-  <li><a href ="https://www.curseforge.com/minecraft/mc-mods/ferritecore/files/3767288">Ferrite Core</a></li>
-  <li><a href = "https://www.curseforge.com/minecraft/mc-mods/starlight-forge/files/3706539">Starlight</a></li>
-  <li><a href ="https://www.curseforge.com/minecraft/mc-mods/appleskin/files/3927564">AppleSkin</a></li>
-  <li><a href ="https://www.curseforge.com/minecraft/mc-mods/jei/files/3940240">Just Enough Items</a></li>
+  <li><a href = "https://www.curseforge.com/minecraft/mc-mods/rubidium/files/4024781">Rubidium</a>. Framerate and memory optimisation.</li>
+  <li><a href = "https://www.curseforge.com/minecraft/mc-mods/oculus/files/3929520">Oculus</a>. Shader engine.</li>
+  <li><a href = "https://www.curseforge.com/minecraft/mc-mods/jade/files/4035581">Jade</a>. Info on black/entity being looked at.</li>
+  <li><a href = "https://www.curseforge.com/minecraft/mc-mods/entityculling/files/3743929">EntityCulling</a>. Performance boost by not rendering entites that aren't visible.</li>
+  <li><a href = "https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler/files/4033047">Extreme Sound Muffler</a>. Allows changing specific sound volumes.</li>
+  <li><a href = "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks/files/3578801">Mouse Tweaks</a>. Useful inventory control mechanics.</li>
+  <li><a href = "https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge/files/3909860">Presence Footsteps (Forge)</a>. Adds unique footstep sounds to blocks.</li>
+  <li><a href = "https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips/files/4035921">Legendary Tooltips</a>. Adds fancy tooltips for rare items.</li>
+  <li><a href ="https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/4026490">Xaero's Minimap</a>. Minimap.</li>
+  <li><a href ="https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/4026503">Xaero's World Map</a>. Worldmap.</li>
+  <li><a href ="https://www.curseforge.com/minecraft/mc-mods/ferritecore/files/3767288">Ferrite Core</a>. Memory optimization.</li>
+  <li><a href = "https://www.curseforge.com/minecraft/mc-mods/starlight-forge/files/3706539">Starlight</a>. Lighting fixes and optimization.</li>
+  <li><a href ="https://www.curseforge.com/minecraft/mc-mods/appleskin/files/3927564">AppleSkin</a>. Saturation and hunger values in tooltip.</li>
+  <li><a href ="https://www.curseforge.com/minecraft/mc-mods/jei/files/3940240">Just Enough Items</a>. Recipes for items in crafting.</li>
   
 </ul>
 
