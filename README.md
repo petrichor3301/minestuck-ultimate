@@ -21,7 +21,6 @@
   <li><a href ="https://www.curseforge.com/minecraft/mc-mods/botania/files/3936568">Botania</a></li>
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/bedspreads/files/3858902">Bedspreads</a></li>
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/terralith/files/4001337">Terralith</a></li>
-<li><a href ="https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files/3759236">Biomes O' Plenty</a></li>
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/catalogue/files/3803098">Catalogue</a></li>
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/clumps/files/3913406">Clumps</a></li>
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/attributefix/files/3801087">AttributeFix</a></li>
@@ -37,6 +36,7 @@
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/4049235">Supplementaries</a></li>
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/adorn-for-forge/files/3796950">Adorn (Forge)</a></li>
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/every-compat/files/4056282">Every Compat (Wood Good)</a></li>
+ <li><a href ="https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/4026503">Xaero's World Map</a></li>
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/selene/files/3842421">Moonlight Lib</a></li>
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/autoreglib/files/3642382">AutoRegLib</a></li>
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/curios/files/3841948">Curios API</a></li>
@@ -47,7 +47,6 @@
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/patchouli/files/3846086">Patchouli</a></li>
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/paucal/files/3831430">PAUCAL</a></li>
 <li><a href ="https://www.curseforge.com/minecraft/mc-mods/prism-lib/files/3933410">Prism </a></li>
-<li><a href ="https://www.curseforge.com/minecraft/mc-mods/terrablender/files/3957976">TerraBlender (Forge)</a></li>
 </ul>
 
 
@@ -62,12 +61,11 @@
   <li><a href = "https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge/files/3909860">Presence Footsteps (Forge)</a>. Adds unique footstep sounds to blocks.</li>
   <li><a href = "https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips/files/4035921">Legendary Tooltips</a>. Adds fancy tooltips for rare items.</li>
   <li><a href ="https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/4026490">Xaero's Minimap</a>. Minimap.</li>
-  <li><a href ="https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/4026503">Xaero's World Map</a>. Worldmap.</li>
   <li><a href ="https://www.curseforge.com/minecraft/mc-mods/ferritecore/files/3767288">Ferrite Core</a>. Memory optimization.</li>
   <li><a href = "https://www.curseforge.com/minecraft/mc-mods/starlight-forge/files/3706539">Starlight</a>. Lighting fixes and optimization.</li>
   <li><a href ="https://www.curseforge.com/minecraft/mc-mods/appleskin/files/3927564">AppleSkin</a>. Saturation and hunger values in tooltip.</li>
   <li><a href ="https://www.curseforge.com/minecraft/mc-mods/jei/files/3940240">Just Enough Items</a>. Recipes for items in crafting.</li>
-  <li><a href ="https://essential.gg/en/download">Essential</a>. Social/cosmetic mod.</li>
+  <li><a href ="https://www.curseforge.com/minecraft/mc-mods/dynamic-lights/files/3735509">Dynamic Lights</a>. Adds dynamic lighting.</li>
   
 </ul>
 
